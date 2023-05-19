@@ -1,0 +1,27 @@
+theme = "awesome-identity"
+baseURL = "https://example.com"
+title = "Economist | Data Pipelines | S&OP Tools"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/portrait-default.png"
+  firstname = "Manuel"
+  lastname = "Infante"
+  title = "Economist | Data Pipelines | S&OP Tools"
+  bio = """  
+  An experienced Argentine Economist with a specialty in process automation, data flow management, and advanced statistical analysis. 
+  My professional journey includes active participation in complex economic research initiatives, enhancing data processes within public institutions, and leading data migrations for high-impact private investment projects in international banking. 
+  Most recently, my focus has shifted to the FMCG sector where I've spent the last two years developing cutting-edge S&OP solutions, driving operational optimization through report automation and systematic process improvements.
+  """
+
+## Contacts Configurations
+[params.contacts]
+  email = "manuelinfanteprincipe@gmail.com"
+  github = "infante-manu"
+  twitter = "manuelinfante4"
+  linkedin = "manuel-infante"
+
+## Footer Configurations
+[params.footer]
+  poweredBy = true
