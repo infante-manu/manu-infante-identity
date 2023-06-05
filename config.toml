@@ -29,9 +29,9 @@ title = "Economist | Data Pipelines | S&OP Tools"
     name = "Review My CV"
     url = "https://raw.githubusercontent.com/infante-manu/Curriculum-Vitae/f735343a67b46e380b11288b1ff11fbc7c5e8ca3/Curriculum_Vitae.pdf"
 
-  [[params.actions]]
-    name = "View S&OP Demo"
-    url = "https://github.com/infante-manu/Curriculum-Vitae/blob/f735343a67b46e380b11288b1ff11fbc7c5e8ca3/Curriculum_Vitae.pdf"
+##  [[params.actions]]
+##    name = "View S&OP Demo"
+##    url = "https://github.com/infante-manu/Curriculum-Vitae/blob/f735343a67b46e380b11288b1ff11fbc7c5e8ca3/Curriculum_Vitae.pdf"
 
 
 
