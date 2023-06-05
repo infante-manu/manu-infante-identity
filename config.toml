@@ -5,7 +5,8 @@ title = "Economist | Data Pipelines | S&OP Tools"
 
 ## Profile Configurations
 [params.profile]
-  portrait = "/images/portrait-default.png"
+  portrait = "/images/portrait-manu.png"
+
   firstname = "Manuel"
   lastname = "Infante"
   title = "Economist | Data Pipelines | S&OP Tools"
@@ -15,12 +16,25 @@ title = "Economist | Data Pipelines | S&OP Tools"
   Most recently, my focus has shifted to the FMCG sector where I've spent the last two years developing cutting-edge S&OP solutions, driving operational optimization through report automation and systematic process improvements.
   """
 
+
 ## Contacts Configurations
 [params.contacts]
   email = "manuelinfanteprincipe@gmail.com"
   github = "infante-manu"
   twitter = "manuelinfante4"
   linkedin = "manuel-infante"
+
+## Actions 
+[params]
+  [[params.actions]]
+    name = "Review My CV"
+    url = "https://raw.githubusercontent.com/infante-manu/Curriculum-Vitae/f735343a67b46e380b11288b1ff11fbc7c5e8ca3/Curriculum_Vitae.pdf"
+
+  [[params.actions]]
+    name = "View S&OP Demo"
+    url = "https://github.com/infante-manu/Curriculum-Vitae/blob/f735343a67b46e380b11288b1ff11fbc7c5e8ca3/Curriculum_Vitae.pdf"
+
+
 
 ## Footer Configurations
 [params.footer]
