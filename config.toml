@@ -4,7 +4,7 @@ title = "Economist | Data Pipelines | S&OP Tools"
 
 ## Profile Configurations
 [params.profile]
-  portrait = "/images/portrait-manu.png"
+  portrait = "images/portrait-manu.png"
 
   firstname = "Manuel"
   lastname = "Infante"
